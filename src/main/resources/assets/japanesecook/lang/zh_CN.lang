@@ -1,0 +1,8 @@
+command.japanesecook.usage=/jc <reload/item>
+command.japanesecook.reload=成功重载
+command.japanesecook.copied=已复制到剪切板 (%s§r)
+japanesecook.notify=§a镐子的技能已经好了，但是功能已禁用。
+keybinding.japanesecook.category=Japanese Cook
+keybinding.japanesecook.toggle.desc=开关功能
+keybinding.japanesecook.toggle.enable=§a启用了 JapaneseCook
+keybinding.japanesecook.toggle.disable=§c关闭了 JapaneseCook

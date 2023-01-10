@@ -1,0 +1,8 @@
+command.japanesecook.usage=/jc <reload/item>
+command.japanesecook.reload=Reload successfully.
+command.japanesecook.copied=Copied to clipboard. (%s§r)
+japanesecook.notify=§aPickaxe ability is ready, but feature is disabling.
+keybinding.japanesecook.category=Japanese Cook
+keybinding.japanesecook.toggle.desc=Toggle feature
+keybinding.japanesecook.toggle.enable=§aEnabled JapaneseCook
+keybinding.japanesecook.toggle.disable=§cDisabled JapaneseCook

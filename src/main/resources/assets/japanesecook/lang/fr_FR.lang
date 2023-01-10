@@ -1,0 +1,8 @@
+command.japanesecook.usage=/jc <reload/item>
+command.japanesecook.reload=Rechargez avec succès.
+command.japanesecook.copied=Copié dans le presse-papier. (%s§r)
+japanesecook.notify=§aLa capacité de pioche est prête, mais la fonctionnalité est désactivée.
+keybinding.japanesecook.category=Japanese Cook
+keybinding.japanesecook.toggle.desc=Activer/désactiver la fonction
+keybinding.japanesecook.toggle.enable=§aJapaneseCook activée
+keybinding.japanesecook.toggle.disable=§cJapaneseCook désactivé

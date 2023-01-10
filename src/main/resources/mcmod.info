@@ -1,0 +1,16 @@
+[
+{
+  "modid": "japanesecook",
+  "name": "Japanese Cook",
+  "description": "日本双料高级催逝员，穿山甲",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/flowerinsnowdh/JapaneseCook",
+  "updateUrl": "",
+  "authorList": ["flowerinsnow"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

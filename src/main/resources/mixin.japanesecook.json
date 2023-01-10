@@ -1,0 +1,9 @@
+{
+  "refmap": "mixins.japanesecook.refmap.json",
+  "package": "online.flowerinsnow.japanesecook.mixin",
+  "mixins": [],
+  "client": [
+    "MixinModList"
+  ],
+  "server": []
+}

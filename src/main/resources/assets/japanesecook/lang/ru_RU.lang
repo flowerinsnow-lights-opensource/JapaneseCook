@@ -1,0 +1,8 @@
+command.japanesecook.usage=/jc <reload/item>
+command.japanesecook.reload=Перезагрузить успешно
+command.japanesecook.copied=Скопировано в буфер обмена (%s§r)
+japanesecook.notify=§aСпособность кирки готова, но функция отключается
+keybinding.japanesecook.category=Japanese Cook
+keybinding.japanesecook.toggle.desc=Переключить функцию
+keybinding.japanesecook.toggle.enable=§aвключено JapaneseCook
+keybinding.japanesecook.toggle.disable=§cинвалид JapaneseCook
