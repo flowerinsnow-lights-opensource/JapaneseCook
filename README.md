@@ -1,7 +1,7 @@
 # JapaneseCook
 日本双料高级催逝员，穿山甲
 
-意为自动开启Hypixel SkyBlock的挖掘速度技能
+意为自动开启Hypixel SkyBlock的挖掘速度技能，版本是1.8.9 forge
 
 # 起名
 一个是整活，一个是说隐晦一点嘛
