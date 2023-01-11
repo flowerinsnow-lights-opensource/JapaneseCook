@@ -1,6 +1,7 @@
 package online.flowerinsnow.japanesecook.util;
 
 import net.minecraft.client.Minecraft;
+import net.minecraft.item.ItemStack;
 import online.flowerinsnow.japanesecook.config.Config;
 
 public class ItemUtils {
@@ -15,7 +16,12 @@ public class ItemUtils {
         if (mc.thePlayer == null || mc.currentScreen != null) {
             return false;
         }
-
-        return MessageUtils.removeColourCode(mc.thePlayer.getHeldItem().getDisplayName()).equals(Config.General.itemName.getString());
+        ItemStack heldItem = mc.thePlayer.getHeldItem();
+        if (heldItem != null) {
+            return MessageUtils.removeColourCode(heldItem.getDisplayName())
+                    .equals(Config.General.itemName.getString());
+        } else {
+            return false;
+        }
     }
 }
